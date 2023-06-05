@@ -17,7 +17,11 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+<<<<<<< HEAD
 // changes by dev1
+=======
+// change by dev2
+>>>>>>> 8e30d4e5bf14f0634f76a6ae2ac9b26931979723
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
